@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://EricAtencio12.github.io/calcula_edad/build",
+   "homepage": "https://github.com/EricAtencio12/calcula_edad/dist",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
