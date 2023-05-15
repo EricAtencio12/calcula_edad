@@ -14,7 +14,7 @@ const Botones = () => {
            <Routes>
                 <Route path='/calcula_edad/edad' element={<Calculadora/>}></Route>
                 <Route path='/calcula_edad/peso' element={<CalculaPeso/>}></Route>
-                <Route path='*' element={<Calculadora/>}></Route>
+                <Route path='/' element={<Calculadora/>}></Route>
            </Routes>
     </BrowserRouter>
   )
